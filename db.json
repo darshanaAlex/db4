@@ -1,0 +1,115 @@
+{
+  "login": {
+    "id": "1",
+    "name": "Henry Nixon",
+    "userName": "admin",
+    "password": "123"
+  }, 
+  "profile": {
+    "id": "1",
+    "name": "Henry Nixon",
+    "address": "main street,colombo 1",
+    "telephone": "1234567890"
+  },
+  "stores": [
+    {
+      "pid": "p01",
+      "pname": "trimmer",
+      "pquentity": 1,
+      "purl": "https://i.pinimg.com/564x/af/af/10/afaf106a3a45ab09dd8c915739ff289e.jpg",
+      "price": "Rs.1500",
+      "customer": "Nimal Perera",
+      "cuAddress": "3rd floor 'Samagam Medura' 400, D.R. Wijewardena Mawatha Colombo 10",
+       "cutelno": "1234567891",
+       "deliveryDate": "2020.05.18",
+       "deliverystatus": "pending"
+    },
+    {
+      "storyOner": "Jesy jesy",
+      "storyUrl": "https://images.unsplash.com/photo-1541233349642-6e425fe6190e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&w=1000&q=80"
+    },
+    {"pid": "p02",
+      "pname": "trimmer",
+      "pquentity": 1,
+      "purl": "https://i.pinimg.com/564x/af/af/10/afaf106a3a45ab09dd8c915739ff289e.jpg",
+      "price": "Rs.1500",
+      "customer": "Nimal Perera",
+      "cuAddress": "3rd floor 'Samagam Medura' 400, D.R. Wijewardena Mawatha Colombo 10",
+       "cutelno": "1234567891",
+       "deliveryDate": "2020.05.18",
+       "deliverystatus": "pending"
+    },
+    {
+      "pid": "p03",
+      "pname": "trimmer",
+      "pquentity": 1,
+      "purl": "https://i.pinimg.com/564x/af/af/10/afaf106a3a45ab09dd8c915739ff289e.jpg",
+      "price": "Rs.1500",
+      "customer": "Nimal Perera",
+      "cuAddress": "3rd floor 'Samagam Medura' 400, D.R. Wijewardena Mawatha Colombo 10",
+       "cutelno": "1234567891",
+       "deliveryDate": "2020.05.18",
+       "deliverystatus": "pending"
+    },
+    {
+      "pid": "p04",
+      "pname": "trimmer",
+      "pquentity": 1,
+      "purl": "https://i.pinimg.com/564x/af/af/10/afaf106a3a45ab09dd8c915739ff289e.jpg",
+      "price": "Rs.1500",
+      "customer": "Nimal Perera",
+      "cuAddress": "3rd floor 'Samagam Medura' 400, D.R. Wijewardena Mawatha Colombo 10",
+       "cutelno": "1234567891",
+       "deliveryDate": "2020.05.18",
+       "deliverystatus": "pending"
+    },
+    {
+      "pid": "p05",
+      "pname": "trimmer",
+      "pquentity": 1,
+      "purl": "https://i.pinimg.com/564x/af/af/10/afaf106a3a45ab09dd8c915739ff289e.jpg",
+      "price": "Rs.1500",
+      "customer": "Nimal Perera",
+      "cuAddress": "3rd floor 'Samagam Medura' 400, D.R. Wijewardena Mawatha Colombo 10",
+       "cutelno": "1234567891",
+       "deliveryDate": "2020.05.18",
+       "deliverystatus": "pending"
+    },
+    {
+      "pid": "p06",
+      "pname": "trimmer",
+      "pquentity": 1,
+      "purl": "https://i.pinimg.com/564x/af/af/10/afaf106a3a45ab09dd8c915739ff289e.jpg",
+      "price": "Rs.1500",
+      "customer": "Nimal Perera",
+      "cuAddress": "3rd floor 'Samagam Medura' 400, D.R. Wijewardena Mawatha Colombo 10",
+       "cutelno": "1234567891",
+       "deliveryDate": "2020.05.18",
+       "deliverystatus": "pending"
+    },
+    {
+      "pid": "p07",
+      "pname": "trimmer",
+      "pquentity": 1,
+      "purl": "https://i.pinimg.com/564x/af/af/10/afaf106a3a45ab09dd8c915739ff289e.jpg",
+      "price": "Rs.1500",
+      "customer": "Nimal Perera",
+      "cuAddress": "3rd floor 'Samagam Medura' 400, D.R. Wijewardena Mawatha Colombo 10",
+       "cutelno": "1234567891",
+       "deliveryDate": "2020.05.19",
+       "deliverystatus": "pending"
+    },
+    {
+      "pid": "p08",
+      "pname": "trimmer",
+      "pquentity": 1,
+      "purl": "https://i.pinimg.com/564x/af/af/10/afaf106a3a45ab09dd8c915739ff289e.jpg",
+      "price": "Rs.1500",
+      "customer": "Nimal Perera",
+      "cuAddress": "3rd floor 'Samagam Medura' 400, D.R. Wijewardena Mawatha Colombo 10",
+       "cutelno": "1234567891",
+       "deliveryDate": "2020.05.17",
+       "deliverystatus": "delivery"
+    }
+  ]
+}
