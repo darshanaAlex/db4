@@ -2,14 +2,15 @@
   "login": {
     "id": "1",
     "name": "Henry Nixon",
-    "userName": "admin",
+    "email": "admin@gmail.com",
     "password": "123"
   },
   "profile": {
     "id": "1",
     "name": "Henry Nixon",
     "address": "main street,colombo 1",
-    "telephone": "1234567890"
+    "telephone": "1234567890",
+    "email":"admin@gmail.com"
   },
   "stores": [
     {
